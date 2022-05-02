@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "name": "mushrooms_csv_shaped",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "owner_id": "1000330999",
+    "created_at": "2022-05-02T20:12:51Z",
+    "created": 1651522371540,
+    "asset_id": "data_asset.mushroomscsvshaped",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "mime_type": "text/csv",
+      "dataset": true,
+      "properties": [
+        {
+          "name": "file_format",
+          "value": "csv"
+        },
+        {
+          "name": "first_line_header",
+          "value": "true"
+        }
+      ]
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "mushrooms_csv_shaped",
+      "object_key": "data_asset/mushrooms_csv_shaped-727m",
+      "mime": "text/csv",
+      "object_key_is_read_only": false,
+      "created_at": "2022-05-02T20:12:51Z",
+      "id": "1f46b010-b0c2-4d92-8842-849ddbc105cb",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
